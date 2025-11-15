@@ -14,6 +14,7 @@ namespace Geometry2D
         {
             X = x; Y = y;
         }
+		// Расстояние между точками
         public static double operator- (Point t1, Point t2)
         {
             double dx = t1.X - t2.X, dy = t1.Y - t2.Y;
