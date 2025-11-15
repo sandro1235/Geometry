@@ -1,5 +1,4 @@
-﻿//using System;
-namespace Geometry2D
+﻿namespace Geometry2D
 {
     public abstract class Figure
 	{
