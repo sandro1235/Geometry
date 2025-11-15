@@ -1,0 +1,8 @@
+C:\Users\Александр\Documents\Geomerty_2D\Geomerty_2D\obj\Debug\Geomerty_2D.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\Geomerty_2D\Geomerty_2D\obj\Debug\Geomerty_2D.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Geomerty_2D\Geomerty_2D\bin\Debug\Geomerty_2D.exe.config
+C:\Users\Александр\Documents\Geomerty_2D\Geomerty_2D\bin\Debug\Geomerty_2D.exe
+C:\Users\Александр\Documents\Geomerty_2D\Geomerty_2D\bin\Debug\Geomerty_2D.pdb
+C:\Users\Александр\Documents\Geomerty_2D\Geomerty_2D\obj\Debug\Geomerty_2D.exe
+C:\Users\Александр\Documents\Geomerty_2D\Geomerty_2D\obj\Debug\Geomerty_2D.pdb
+C:\Users\Александр\Documents\Geomerty_2D\Geomerty_2D\obj\Debug\Geomerty_2D.exe.config
